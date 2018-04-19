@@ -1,0 +1,18 @@
+# Composer Files
+composer.phar
+/vendor/
+
+# Windows Files
+Thumbs.db
+[Dd]esktop.ini
+*.lnk
+
+# macOS Files
+.DS_Store
+._*
+
+# Vim Files
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
